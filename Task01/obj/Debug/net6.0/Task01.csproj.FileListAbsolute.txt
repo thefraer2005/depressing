@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Документы\GitHub\hw\depressing\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Документы\GitHub\hw\depressing\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Документы\GitHub\hw\depressing\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Документы\GitHub\hw\depressing\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Документы\GitHub\hw\depressing\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
